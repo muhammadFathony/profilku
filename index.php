@@ -8,8 +8,6 @@
   <meta content="Its me" name="keywords">
 
   <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i,900,900i" rel="stylesheet">
 
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +21,7 @@
 
   <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-between">
-      <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+      <a href="index.html" class="logo"><img src="https://storage.googleapis.com/profil_submission/logo.png" alt="" class="img-fluid"></a>
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">It's me</a></li>
@@ -55,7 +53,7 @@
           <div class="col-lg-4 ">
             <div class="div-img-bg">
               <div class="about-img">
-                <img src="assets/img/itsme.jpg" class="img-responsive" alt="me">
+                <img src="https://storage.googleapis.com/profil_submission/itsme.jpg" class="img-responsive" alt="me">
               </div>
             </div>
           </div>
@@ -64,6 +62,31 @@
             <div class="about-descr">
               <p class="p-heading">Make technology a driver of better attitudes </p>
               <p class="separator">love reading, studying, and explore of Indonesia nature. I'm a good leader in my family and a good father to my son. </p>
+            </div>
+            <div class="col-lg-12 col-md-12 pt-3">
+              <div class="card shadow mb-4">
+                  <div class="card-header py-3">
+                      <h6 class="m-0 font-weight-bold">Personal Information</h6>
+                  </div>
+                  <div class="card-body">
+                      <div class="col-lg-12 col-md-12 my-2">
+                        <label for="">Age : <b>27 years old</b></label>
+                      </div>
+                      <div class="col-lg-12 col-md-12 my-2">
+                        <label for="">Email : <b>mfathony115@gmail.com</b></label>
+                      </div>
+                      <div class="col-lg-12 col-md-12 my-2">
+                        <label for="">Phone : <b>+6289675976291</b></label>
+                      </div>
+                      <div class="col-lg-12 col-md-12 my-2">
+                        <label for="">Education : <b>Computer Engineering, Stekom University</b></label>
+                      </div>
+                      <div class="col-lg-12 col-md-12 my-2">
+                        <label for="">Address : <b>Jl. Kumudasmoro Utara II, Bongsari Semarang</b></label>
+                      </div>
+                      <!-- border-top: 1px solid rgba(255,255,255,.15); -->
+                  </div>
+              </div>
             </div>
           </div>
         </div>
@@ -76,21 +99,21 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="services-block">
-                <i class="bi bi-briefcase"></i>
+                <i class="bi bi-back"></i>
                 <span>Fullstack Developer</span>
                 <p class="separator">create enterprise resource system to tools store. Codeigniter as backend, Bootstrap, and javascript for frontend website.</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="services-block">
-                <i class="bi bi-card-checklist"></i>
+                <i class="bi bi-code-slash"></i>
                 <span>Backend Developer</span>
                 <p class="separator">The recording cancer system in the hospital, with laravel technology as backend.</p>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="services-block">
-                <i class="bi bi-bar-chart"></i>
+                <i class="bi bi-card-list"></i>
                 <span>API Developer</span>
                 <p class="separator">API developer for absence system hospital, now more than 500 users used the applications. </p>
               </div>
