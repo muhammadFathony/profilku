@@ -7,7 +7,7 @@
   <meta content="Description your self" name="description">
   <meta content="Its me" name="keywords">
 
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="https://storage.googleapis.com/profil_submission/favicon.png" rel="icon">
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,500,500i,600,600i,700,700i,900,900i" rel="stylesheet">
 
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
